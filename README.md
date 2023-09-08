@@ -9,4 +9,4 @@ After downloading the model as mentioned in the notebook, you need to replace th
 ![P4](https://github.com/himanshubhansali/LipSync-Using-Wav2Lip/assets/81100815/44138fd6-2687-48c7-aaf4-735e2afb1bea)
 
 
-
+After replacing the file, you can simply run the model and download the resulting lip-synced video.
